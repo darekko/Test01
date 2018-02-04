@@ -8,7 +8,7 @@ int main(void)
 	int b = 2;
 	int c;
 	
-	c = suma(a, b);
+	c = suma(a, b);//function
 	
 	printf("%d\n", c);
 	
