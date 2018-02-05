@@ -4,8 +4,8 @@
 //main function
 int main(void)
 {
-	int a = 1;
-	int b = 2;
+	int data = 20180205;
+	int time = 855;
 	int c;
 	
 	c = suma(a, b);//function
