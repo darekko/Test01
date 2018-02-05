@@ -5,7 +5,7 @@
 int main(void)
 {
 	int data = 20180205;
-	int time = 1531;
+	int time = 1923;
 	int c;
 	
 	c = suma(a, b);//function
